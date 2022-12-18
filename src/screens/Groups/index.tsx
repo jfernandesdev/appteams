@@ -4,7 +4,8 @@ import { FlatList } from 'react-native'
 import { Header } from '@components/Header'
 import { Hightlight } from '@components/Hightlight'
 import { GroupCard } from '@components/GroupCard'
-import { ListEmpty } from '@components/ListEmpty';
+import { ListEmpty } from '@components/ListEmpty'
+import { Button } from '@components/Button'
 
 import { Container } from './styles'
 
@@ -34,6 +35,10 @@ export function Groups() {
             message="Que tal cadastrar a primeira turma?" 
           />
         )}
+      />
+
+      <Button
+        title="Criar nova turma" 
       />
     </Container>
   )
