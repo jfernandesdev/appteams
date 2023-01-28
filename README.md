@@ -7,7 +7,7 @@ A proposta da aplicação é ajudar a organizar pessoas que se reúnem para joga
 - [x] Criar nova turma;
 - [x] Listagem das turmas cadastradas;
 - [x] Remover turma;
-- [x] Cadastrar jogadores dentro da turma, separados pelos times;
+- [x] Cadastrar jogadores dentro da turma, filtrados pelos times;
 - [x] Listagem dos jogadores dentro da turma;
 - [x] Remover um jogador cadastrando dentro de um time.
 
@@ -38,7 +38,7 @@ A proposta da aplicação é ajudar a organizar pessoas que se reúnem para joga
 
 | Turmas | Nova Turma | Tela da turma | 
 | --- | --- | --- | 
-| <img src="" /> | <img src="" /> | <img src="" /> |
+| <img src="https://github.com/jfernandesdev/appteams/blob/64d01775a1e9ecafb99698ce3d8b974227505183/assets/layout/screen-1.png" /> | <img src="https://github.com/jfernandesdev/appteams/blob/64d01775a1e9ecafb99698ce3d8b974227505183/assets/layout/screen-2.png" /> | <img src="https://github.com/jfernandesdev/appteams/blob/64d01775a1e9ecafb99698ce3d8b974227505183/assets/layout/screen-3.png" /> |
 
 
 ##  Rodando a aplicação localmente: ⚙
